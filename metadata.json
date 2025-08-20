@@ -1,6 +1,5 @@
 {
-  "name": "TRỢ LÝ AI SOẠN THẢO VĂN BẢN",
-  "description": "Một chatbot thông minh giúp bạn soạn thảo các văn bản hành chính nhà nước Việt Nam theo đúng quy chuẩn và quy định pháp luật hiện hành.",
-  "requestFramePermissions": [],
-  "prompt": ""
+  "name": "Trợ lý AI soạn thảo văn bản",
+  "description": "Một ứng dụng AI giúp hỗ trợ dự thảo các văn bản như: Công văn, Báo cáo, Kế hoạch, Tờ trình... dựa trên các thông tin chi tiết được cung cấp, đảm bảo văn bản phù hợp với bối cảnh và chuyên nghiệp.",
+  "requestFramePermissions": []
 }

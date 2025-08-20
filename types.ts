@@ -1,11 +1,18 @@
 
-export enum MessageRole {
-  USER = 'user',
-  BOT = 'bot',
+export interface FormData {
+  role: string;
+  issuingAuthority: string;
+  eventName: string;
+  organizer: string;
+  context: string;
+  message: string;
+  recipients: string;
+  keyPoints: string;
 }
 
-export interface ChatMessage {
+export interface SpeechItem {
   id: string;
-  role: MessageRole;
-  text: string;
+  title: string;
+  content: string;
+  timestamp: number;
 }
